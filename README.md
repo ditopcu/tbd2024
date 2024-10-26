@@ -1,2 +1,2 @@
-# tbd2024
-Resources related to the my presentation
+
+Resources related to my presentation
